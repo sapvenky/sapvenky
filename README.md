@@ -18,7 +18,6 @@
   - **SAP Event Mesh**  
   - **SAP CPI Migration**
 - 💬 Ask me about **SAP Integration Suite, Groovy Scripting, Openconnectors**
-- 📫 Reach me at: **viswvenkatesh@gmail.com**
 - ⚡ Fun fact: I love automating things and optimizing integration flows!
 
 ---
