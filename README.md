@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sapvenky/sapvenky/main/banner.png" alt="Venkatesh Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/sapvenky/sapvenky/main/assets/banner.png" alt="SAP CPI Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Venkatesh</h1>
@@ -11,12 +11,13 @@
 
 ---
 
-- 🔭 I’m currently working on **Wipro ATG**
-- 🌱 I’m currently learning:  
+- 🔭 I’m currently working on **ATG** Project.
+- 🌱 I’m currently learning:
+  - **SAP integration Suite**
   - **API Management**  
   - **SAP Event Mesh**  
-  - **SAP CPI Migration (Neo to BTP)**
-- 💬 Ask me about **SAP Integration Suite, Groovy Scripting, Cloud Connectors**
+  - **SAP CPI Migration**
+- 💬 Ask me about **SAP Integration Suite, Groovy Scripting, Openconnectors**
 - 📫 Reach me at: **viswvenkatesh@gmail.com**
 - ⚡ Fun fact: I love automating things and optimizing integration flows!
 
