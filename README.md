@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sapvenky/sapvenky/main/banner.png" alt="Venkatesh Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Venkatesh</h1>
 <h3 align="center">🚀 A passionate SAP CPI Developer from India 🇮🇳</h3>
 
@@ -30,11 +34,11 @@
 <h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/SAP CPI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=groovy&logoColor=white" />
-  <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=w3c&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-F56C2D?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -56,4 +60,3 @@
 
 <h3 align="center">✨ Thank you for visiting my profile!</h3>
 <p align="center">Let’s connect and grow together 🚀</p>
-
