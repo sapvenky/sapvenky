@@ -2,10 +2,6 @@
   <img src="https://it.gwu.edu/sites/g/files/zaxdzs5486/files/2023-10/github_logo.png" alt="SAP CPI Banner" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sapvenky/sapvenky/main/assets/banner.png" alt="SAP CPI Banner" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Venkatesh</h1>
 <h3 align="center">🚀 A passionate SAP CPI Developer from India 🇮🇳</h3>
 
