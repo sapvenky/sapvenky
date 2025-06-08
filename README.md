@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapvenky&label=Profile%20views&color=0e75b6&style=flat" alt="sapvenky" /> </p>
 
-- 🔭 I’m currently working on Wipro **ATG**
+- 🔭 I’m currently working on **ATG** Project
 
 - 🌱 I’m currently learning **API Management, Event mesh and Migration**
 
