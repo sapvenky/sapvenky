@@ -1,22 +1,59 @@
 <h1 align="center">Hi 👋, I'm Venkatesh</h1>
-<h3 align="center">A passionate SAP CPI developer from India.</h3>
+<h3 align="center">🚀 A passionate SAP CPI Developer from India 🇮🇳</h3>
 
-<img align="right" alt="CPI" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sapvenky&label=Profile%20views&color=0e75b6&style=flat" alt="sapvenky" /> </p>
-
-- 🔭 I’m currently working on **ATG** Project
-
-- 🌱 I’m currently learning **API Management, Event mesh and Migration**
-
-- 📫 How to reach me **viswvenkatesh@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sapvenky&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sapvenky&show_icons=true&locale=en&layout=compact" alt="sapvenky" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sapvenky&show_icons=true&locale=en" alt="sapvenky" /></p>
+- 🔭 I’m currently working on **Wipro ATG**
+- 🌱 I’m currently learning:  
+  - **API Management**  
+  - **SAP Event Mesh**  
+  - **SAP CPI Migration (Neo to BTP)**
+- 💬 Ask me about **SAP Integration Suite, Groovy Scripting, Cloud Connectors**
+- 📫 Reach me at: **viswvenkatesh@gmail.com**
+- ⚡ Fun fact: I love automating things and optimizing integration flows!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sapvenky&" alt="sapvenky" /></p>
+---
+
+<h3 align="left">🔗 Connect with me</h3>
+<p align="left">
+  <a href="mailto:viswvenkatesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sapvenky/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/sapvenky" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<h3 align="left">🛠️ Languages & Tools</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/SAP CPI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=groovy&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-00599C?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-F56C2D?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sapvenky&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sapvenky&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sapvenky&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+<h3 align="center">✨ Thank you for visiting my profile!</h3>
+<p align="center">Let’s connect and grow together 🚀</p>
+
